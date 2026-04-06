@@ -1,6 +1,7 @@
 # 📡 6G-NetPulse Agent
 
 > An AI-powered, self-healing 6G network monitoring dashboard built with Python, Google Gemini, and Streamlit.
+> Use it at https://6g-netpulse-agent.streamlit.app/
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.5+-red?style=flat&logo=streamlit)
