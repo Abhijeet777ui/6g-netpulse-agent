@@ -1,0 +1,4 @@
+google-genai==1.70.0
+streamlit==1.56.0
+pandas==3.0.2
+python-dotenv==1.2.2
